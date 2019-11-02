@@ -6,6 +6,6 @@ version: 2
      steps:
        - checkout
        - run: 
-             name: "prueba"
-             comand: |
+            name: "prueba"
+            comand: |
                  echo "A first hello"
